@@ -12,10 +12,9 @@
 
 ## 👾 Chi sono
 
-- 🛠️ Costruisco plugin, interfacce web e bot Discord
-- 🌱 Sto imparando: architetture scalabili, accessibilità, performance
+- 🛠️ Costruisco plugin, interfacce web e bot Discord sono pure un software dev
 - 💬 Parlo italiano e inglese
-- 📫 Contattami: [Discord](https://discord.com) · [Email](mailto:tua-email@example.com)
+- 📫 Contattami: [Discord](https://discord.com) · [Email](sassolallo364@gmail.com)
 
 ## 🧰 Stack
 
