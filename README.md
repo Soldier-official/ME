@@ -20,11 +20,14 @@
 
 <div align="center">
 
+![C#](https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=239120)
+![C++](https://img.shields.io/badge/C%2B%2B-111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Discord](https://img.shields.io/badge/Discord_Bots-111?style=for-the-badge&logo=discord&logoColor=5865F2)
 ![Tailwind](https://img.shields.io/badge/Tailwind-111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032)
