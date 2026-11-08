@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Soldier-official&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
@@ -65,6 +65,6 @@
 
 <div align="center">
 
-<img src="" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 
 </div>
